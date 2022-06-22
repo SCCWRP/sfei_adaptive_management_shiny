@@ -1,0 +1,539 @@
+StationCode,Date,Sample_ID,Parameter,Fraction,Units,Result,Method_Detection_Limit,Reporting_Limit,Watershed,Site,Water_Year ,Event_Tyoe
+CUA-PVD-01,11/20/2016,ME000000128,E. coli,None,MPN/100mL,2650,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Copper,Total,ug/L,36,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Copper,Dissolved,ug/L,28.5,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Lead,Total,ug/L,6.4,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Lead,Dissolved,ug/L,1.58,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Zinc,Total,ug/L,267,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Zinc,Dissolved,ug/L,190,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,11/21/2016,ME000000129,Hardness as CaCO3,Total,mg/L,113,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Lead,Total,ug/L,5.24,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Lead,Dissolved,ug/L,0.236,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Copper,Total,ug/L,10.1,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Copper,Dissolved,ug/L,4.02,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Zinc,Total,ug/L,53.5,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Zinc,Dissolved,ug/L,24.2,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000333,Hardness as CaCO3,Total,mg/L,15,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,12/16/2016,CIMP000000332,E. coli,None,MPN/100mL,1126,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+DUPME08,12/16/2016,ME000000334,E. coli,None,MPN/100mL,1187,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/1/2016,ME000000129_000NONPJ,Hardness as CaCO3,Total,mg/L,295,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Copper,Total,ug/L,82.7,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Lead,Total,ug/L,29.2,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Zinc,Total,ug/L,202,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Copper,Dissolved,ug/L,62.9,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Lead,Dissolved,ug/L,17,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Zinc,Dissolved,ug/L,169,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Copper,Total,ug/L,82.3,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Lead,Total,ug/L,28.9,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Zinc,Total,ug/L,202,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Copper,Dissolved,ug/L,61.5,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Lead,Dissolved,ug/L,16.8,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Zinc,Dissolved,ug/L,167,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,11/21/2016,ME000000129_000NONPJ,Hardness as CaCO3,Total,mg/L,55,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/9/2016,ME000000129_LABQA,Hardness as CaCO3,Total,mg/L,125,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/9/2016,ME000000129_LABQA,Hardness as CaCO3,Total,mg/L,ND,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Copper,Total,ug/L,953,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Lead,Total,ug/L,64.1,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Zinc,Total,ug/L,1410,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Copper,Dissolved,ug/L,1060,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Lead,Dissolved,ug/L,65.4,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Zinc,Dissolved,ug/L,1550,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Copper,Total,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Lead,Total,ug/L,ND,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Zinc,Total,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Copper,Dissolved,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Lead,Dissolved,ug/L,ND,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/12/2016,ME000000129_LABQA,Zinc,Dissolved,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/1/2016,ME000000129_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/1/2016,ME000000129_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/1/2016,ME000000129_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/1/2016,ME000000129_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Copper,Dissolved,ug/L,52.6,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Zinc,Dissolved,ug/L,146,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Copper,Total,ug/L,78.9,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Zinc,Total,ug/L,291,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Copper,Dissolved,ug/L,53.7,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Zinc,Dissolved,ug/L,148,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Copper,Total,ug/L,78.4,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Zinc,Total,ug/L,293,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,12/16/2016,CIMP000000333_000NONPJ,Hardness as CaCO3,Total,mg/L,125,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/11/2017,CIMP000000333_LABQA,Hardness as CaCO3,Total,mg/L,125,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/11/2017,CIMP000000333_LABQA,Hardness as CaCO3,Total,mg/L,ND,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Copper,Dissolved,ug/L,1130,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Zinc,Dissolved,ug/L,1510,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Copper,Total,ug/L,1140,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Zinc,Total,ug/L,1530,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Copper,Dissolved,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Zinc,Dissolved,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Copper,Total,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/27/2016,CIMP000000333_LABQA,Zinc,Total,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,CIMP000000333_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,CIMP000000333_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,CIMP000000333_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,CIMP000000333_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,ME000000334_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,ME000000334_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,ME000000334_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,12/23/2016,ME000000334_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000374,E. coli,None,MPN/100mL,3170,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/9/2017,CIMP000000374_LABQA,E. coli,None,MPN/100mL,2880,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/12/2017,CIMP000000374_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/12/2017,CIMP000000374_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/12/2017,CIMP000000374_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/12/2017,CIMP000000374_LABQA,E. coli,None,MPN/100mL,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Copper,Dissolved,ug/L,44.2,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Lead,Dissolved,ug/L,15.6,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Zinc,Dissolved,ug/L,115,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Copper,Total,ug/L,60.9,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Lead,Total,ug/L,24.3,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Zinc,Total,ug/L,199,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Copper,Dissolved,ug/L,43.7,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Lead,Dissolved,ug/L,15.7,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Zinc,Dissolved,ug/L,115,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Copper,Total,ug/L,60.7,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Lead,Total,ug/L,24.6,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Zinc,Total,ug/L,199,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+000NONPJ,1/10/2017,CIMP000000375_000NONPJ,Hardness as CaCO3,Total,mg/L,300,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Copper,Dissolved,ug/L,3.92,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Lead,Dissolved,ug/L,ND,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Zinc,Dissolved,ug/L,25.9,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Copper,Total,ug/L,15.7,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Lead,Total,ug/L,3.57,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Zinc,Total,ug/L,50,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2017,CIMP000000375,Hardness as CaCO3,Total,mg/L,10,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/21/2017,CIMP000000375_LABQA,Hardness as CaCO3,Total,mg/L,125,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/21/2017,CIMP000000375_LABQA,Hardness as CaCO3,Total,mg/L,ND,2,2,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Copper,Dissolved,ug/L,1080,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Lead,Dissolved,ug/L,61.6,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Zinc,Dissolved,ug/L,1520,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Copper,Total,ug/L,1020,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Lead,Total,ug/L,61.3,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Zinc,Total,ug/L,1560,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Copper,Dissolved,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Lead,Dissolved,ug/L,ND,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Zinc,Dissolved,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Copper,Total,ug/L,ND,0.5,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Lead,Total,ug/L,ND,0.2,0.5,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/23/2017,CIMP000000375_LABQA,Zinc,Total,ug/L,ND,1,1,Los Cerritos,County Island ,Water_16_17,Wet
+CUA-PVD-01,1/9/2018,CIMP000000581,E. coli,None,MPN/100 mL,16000,-88,10,Los Cerritos,County Island ,Water_16_17,Wet
+LABQA,1/8/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/11/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/10/2018,CIMP000000581_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,ME000000583,E. coli,None,MPN/100 mL,12000,-88,10,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/8/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/9/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/11/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/10/2018,ME000000583_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Hardness as CaCO3,Total,mg/L,16.5,0.0894,0.662,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Total Suspended Solids,Total,mg/L,43,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Calcium,Total,mg/L,5.02,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Magnesium,Total,mg/L,0.949,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Copper,Total,ug/L,12,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Copper,Dissolved,ug/L,7.2,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Lead,Total,ug/L,3.8,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Lead,Dissolved,ug/L,0.42,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Zinc,Total,ug/L,76,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,1/9/2018,CIMP000000582,Zinc,Dissolved,ug/L,47,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Total Suspended Solids,Total,mg/L,900,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Total Suspended Solids,Total,mg/L,1,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Calcium,Total,mg/L,72.5,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Magnesium,Total,mg/L,53.9,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Calcium,Total,mg/L,72.4,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Magnesium,Total,mg/L,53.9,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Copper,Total,ug/L,82.7,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Lead,Total,ug/L,66.5,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Zinc,Total,ug/L,235,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Copper,Total,ug/L,111,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Lead,Total,ug/L,76.2,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Zinc,Total,ug/L,403,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Copper,Total,ug/L,80.1,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Lead,Total,ug/L,65.4,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Zinc,Total,ug/L,232,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Copper,Total,ug/L,108,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Lead,Total,ug/L,74.4,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,1/9/2018,CIMP000000582_000NONPJ,Zinc,Total,ug/L,397,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/15/2018,CIMP000000582_LABQA,Total Suspended Solids,Total,mg/L,ND,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/15/2018,CIMP000000582_LABQA,Total Suspended Solids,Total,mg/L,59,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/15/2018,CIMP000000582_LABQA,Total Suspended Solids,Total,mg/L,62,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Calcium,Total,mg/L,ND,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Calcium,Total,mg/L,52.6,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Magnesium,Total,mg/L,ND,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Magnesium,Total,mg/L,49,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Copper,Total,ug/L,48.8,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Copper,Dissolved,ug/L,0.572,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Copper,Dissolved,ug/L,48.8,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Lead,Total,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Lead,Total,ug/L,49.3,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Zinc,Total,ug/L,50.9,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Zinc,Dissolved,ug/L,50.9,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,1/18/2018,CIMP000000582_LABQA,Lead,Dissolved,ug/L,49.3,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/11/2018,CIMP000000716,E. coli,None,MPN/100 mL,300,-88,10,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/15/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/21/2018,CIMP000000716_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Hardness as CaCO3,Total,mg/L,32.7,0.0894,0.662,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Total Suspended Solids,Total,mg/L,36,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/17/2018,CIMP00000760,Copper,Total,ug/L,16,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Copper,Dissolved,ug/L,6.9,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Lead,Total,ug/L,5.2,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Lead,Dissolved,ug/L,0.28,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Zinc,Total,ug/L,70,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Zinc,Dissolved,ug/L,25,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Calcium,Total,mg/L,9.92,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Magnesium,Total,mg/L,1.92,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Calcium,Total,mg/L,58.7,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Calcium,Total,mg/L,58.6,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Magnesium,Total,mg/L,49.5,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA_PVD_01,3/17/2018,CIMP00000760,Magnesium,Total,mg/L,49.2,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Total Suspended Solids,Total,mg/L,2,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Total Suspended Solids,Total,mg/L,2,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Copper,Total,ug/L,47.9,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Lead,Total,ug/L,50.9,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Zinc,Total,ug/L,48.8,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Copper,Total,ug/L,47,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Lead,Total,ug/L,48.3,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Zinc,Total,ug/L,48.1,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Copper,Total,ug/L,47.8,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Lead,Total,ug/L,48.9,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Zinc,Total,ug/L,48.7,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Copper,Total,ug/L,46.1,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Lead,Total,ug/L,46.9,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/17/2018,CIMP00000760_000NONPJ,Zinc,Total,ug/L,46.7,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/21/2018,CIMP00000760_LABQA,Total Suspended Solids,Total,mg/L,ND,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/21/2018,CIMP00000760_LABQA,Total Suspended Solids,Total,mg/L,53,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Total,ug/L,0.17,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Total,ug/L,51.8,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Total,ug/L,49.6,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Dissolved,ug/L,0.19,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Copper,Dissolved,ug/L,51.8,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Total,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Total,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Total,ug/L,49.6,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Total,ug/L,46.7,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Lead,Dissolved,ug/L,49.6,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Total,ug/L,52.3,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Total,ug/L,49.6,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Dissolved,ug/L,52.3,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Magnesium,Total,mg/L,ND,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Magnesium,Total,mg/L,47.6,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Zinc,Dissolved,ug/L,1.37,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Calcium,Total,mg/L,ND,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/28/2018,CIMP00000760_LABQA,Calcium,Total,mg/L,49.7,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/15/2018,CIMP000000759,E. coli,None,MPN/100 mL,9200,-88,10,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/15/2018,ME000000761,E. coli,None,MPN/100 mL,10000,-88,10,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/11/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/15/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/21/2018,CIMP000000759_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/11/2018,ME000000718,E. coli,None,MPN/100 mL,320,-88,10,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Hardness as CaCO3,Total,mg/L,36.9,0.0894,0.662,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Total Suspended Solids,Total,mg/L,15,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Calcium,Total,mg/L,12.1,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Magnesium,Total,mg/L,1.64,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Copper,Total,ug/L,11,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Copper,Dissolved,ug/L,7.9,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Lead,Total,ug/L,2.6,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Lead,Dissolved,ug/L,0.15,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Zinc,Total,ug/L,40,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,3/10/2018,CIMP000000717,Zinc,Dissolved,ug/L,23,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Total Suspended Solids,Total,mg/L,29,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Total Suspended Solids,Total,mg/L,9,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Calcium,Total,mg/L,63,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Magnesium,Total,mg/L,50.7,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Calcium,Total,mg/L,63.8,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Magnesium,Total,mg/L,51.3,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Copper,Total,ug/L,69.6,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Lead,Total,ug/L,55.1,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Zinc,Total,ug/L,144,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Copper,Total,ug/L,67.7,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Lead,Total,ug/L,52.7,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+000NONPJ,3/10/2018,CIMP000000717_000NONPJ,Zinc,Total,ug/L,142,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/16/2018,CIMP000000717_LABQA,Total Suspended Solids,Total,mg/L,ND,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/16/2018,CIMP000000717_LABQA,Total Suspended Solids,Total,mg/L,51,-88,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Calcium,Total,mg/L,ND,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Calcium,Total,mg/L,45.3,0.016,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Magnesium,Total,mg/L,ND,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Magnesium,Total,mg/L,45.3,0.012,0.1,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Copper,Total,ug/L,0.13,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Copper,Total,ug/L,52,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Copper,Dissolved,ug/L,52,0.13,0.5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Lead,Total,ug/L,0.0709,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Lead,Total,ug/L,50.2,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Lead,Dissolved,ug/L,50.2,0.031,0.2,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Zinc,Dissolved,ug/L,51.4,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+LABQA,3/27/2018,CIMP000000717_LABQA,Zinc,Total,ug/L,51.4,0.94,5,Los Cerritos,County Island ,Water_17_18,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Calcium,Total,mg/L,17.1,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Calcium,Total,mg/L,69.3,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Calcium,Total,mg/L,69,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/27/2018,CIMP000000860_LABQA,Calcium,Total,mg/L,ND,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/27/2018,CIMP000000860_LABQA,Calcium,Total,mg/L,47.4,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Copper,Total,ug/L,57,0.26,1,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Copper,Dissolved,ug/L,9.6,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Copper,Total,ug/L,65.6,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Copper,Total,ug/L,65.8,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Copper,Total,ug/L,66.3,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Copper,Total,ug/L,65.7,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Copper,Total,ug/L,51.1,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Copper,Dissolved,ug/L,51.1,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Hardness as CaCO3,Total,mg/L,68.4,0.0894,0.662,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Lead,Total,ug/L,22,0.062,0.4,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Lead,Dissolved,ug/L,0.76,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Lead,Total,ug/L,52.8,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Lead,Total,ug/L,51.9,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Lead,Total,ug/L,53.1,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Lead,Total,ug/L,52.5,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Lead,Total,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Lead,Total,ug/L,49.3,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Lead,Dissolved,ug/L,0.0321,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Lead,Dissolved,ug/L,49.3,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Magnesium,Total,mg/L,6.25,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Magnesium,Total,mg/L,52.5,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Magnesium,Total,mg/L,52.3,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/27/2018,CIMP000000860_LABQA,Magnesium,Total,mg/L,ND,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/27/2018,CIMP000000860_LABQA,Magnesium,Total,mg/L,46.7,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Total Suspended Solids,Total,mg/L,270,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Total Suspended Solids,Total,mg/L,492,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Total Suspended Solids,Total,mg/L,6,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/26/2018,CIMP000000860_LABQA,Total Suspended Solids,Total,mg/L,ND,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/26/2018,CIMP000000860_LABQA,Total Suspended Solids,Total,mg/L,63,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Zinc,Total,ug/L,270,1.9,10,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/22/2018,CIMP000000860,Zinc,Dissolved,ug/L,49,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Zinc,Total,ug/L,119,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Zinc,Total,ug/L,121,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Zinc,Total,ug/L,122,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/22/2018,CIMP000000860_000NONPJ,Zinc,Total,ug/L,121,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Zinc,Total,ug/L,53.4,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,11/24/2018,CIMP000000860_LABQA,Zinc,Dissolved,ug/L,53.4,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Hardness as CaCO3,Total,mg/L,36,0.0894,0.662,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Calcium,Total,mg/L,9.71,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Magnesium,Total,mg/L,2.85,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Copper,Total,ug/L,25,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Copper,Dissolved,ug/L,9.6,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Lead,Total,ug/L,9.5,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Lead,Dissolved,ug/L,0.34,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Zinc,Total,ug/L,95,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Zinc,Dissolved,ug/L,23,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000947,Total Suspended Solids,Total,mg/L,120,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947,Calcium,Total,mg/L,65.9,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Magnesium,Total,mg/L,52.1,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Calcium,Total,mg/L,65,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Magnesium,Total,mg/L,51.6,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Copper,Total,ug/L,74.9,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Lead,Total,ug/L,56.9,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Zinc,Total,ug/L,233,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Copper,Total,ug/L,47.8,0.65,2.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Lead,Total,ug/L,48.8,0.16,1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Zinc,Total,ug/L,59,4.7,25,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Copper,Total,ug/L,77.3,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Lead,Total,ug/L,57.7,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Zinc,Total,ug/L,240,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Copper,Total,ug/L,48.2,0.65,2.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Lead,Total,ug/L,49.6,0.16,1,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Zinc,Total,ug/L,59.2,4.7,25,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Total Suspended Solids,Total,mg/L,217,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,11/29/2018,CIMP000000947_000NONPJ,Total Suspended Solids,Total,mg/L,15,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/4/2018,CIMP000000947_LABQA,Calcium,Total,mg/L,ND,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/4/2018,CIMP000000947_LABQA,Calcium,Total,mg/L,48.9,0.016,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/4/2018,CIMP000000947_LABQA,Magnesium,Total,mg/L,ND,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/4/2018,CIMP000000947_LABQA,Magnesium,Total,mg/L,47.5,0.012,0.1,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Copper,Total,ug/L,50.7,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Copper,Dissolved,ug/L,50.7,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Lead,Total,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Lead,Total,ug/L,50.5,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Lead,Dissolved,ug/L,ND,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Lead,Dissolved,ug/L,50.5,0.031,0.2,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/6/2018,CIMP000000947_LABQA,Total Suspended Solids,Total,mg/L,ND,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/6/2018,CIMP000000947_LABQA,Total Suspended Solids,Total,mg/L,69,-88,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Zinc,Total,ug/L,57,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/5/2018,CIMP000000947_LABQA,Zinc,Dissolved,ug/L,57,0.94,5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000915,E. coli,None,MPN/100 mL,810,-88,10,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,11/29/2018,CIMP000000923,E. coli,None,MPN/100 mL,790,-88,10,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,12/6/2018,CIMP000000969,Copper,Total,ug/L,14,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,12/6/2018,CIMP000000969,Copper,Dissolved,ug/L,4.2,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,12/6/2018,CIMP000000969_000NONPJ,Copper,Total,ug/L,118,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,12/6/2018,CIMP000000969_000NONPJ,Copper,Total,ug/L,52.8,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,12/6/2018,CIMP000000969_000NONPJ,Copper,Total,ug/L,116,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+000NONPJ,12/6/2018,CIMP000000969_000NONPJ,Copper,Total,ug/L,53.5,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/14/2018,CIMP000000969_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/14/2018,CIMP000000969_LABQA,Copper,Total,ug/L,53.3,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/14/2018,CIMP000000969_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+LABQA,12/14/2018,CIMP000000969_LABQA,Copper,Dissolved,ug/L,53.3,0.13,0.5,Los Cerritos,County Island ,Water_18_19,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Lead,Total,ug/L,1.8,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Calcium,Dissolved,mg/L,3.1,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Hardness As CaCO3,Total,mg/L,9.5,1,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Lead,Dissolved,ug/L,0.23,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Magnesium,Dissolved,mg/L,0.45,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Total Suspended Solids,Total,mg/L,24,5,5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Calcium,Dissolved,mg/L,ND,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Magnesium,Dissolved,mg/L,ND,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Lead,Total,ug/L,ND,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/18/2020,CIMP000001481_LABQA,Total Suspended Solids,Total,mg/L,ND,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/21/2020,CIMP000001481_LABQA,Lead,Dissolved,ug/L,ND,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/21/2020,CIMP000001481_LABQA,Lead,Total,ug/L,ND,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Calcium,Dissolved,mg/L,10.44,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Magnesium,Dissolved,mg/L,10.78,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/19/2020,CIMP000001481_LABQA,Lead,Total,ug/L,10.28,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/18/2020,CIMP000001481_LABQA,Total Suspended Solids,Total,mg/L,916,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/21/2020,CIMP000001481_LABQA,Lead,Dissolved,ug/L,9.66,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/21/2020,CIMP000001481_LABQA,Lead,Total,ug/L,9.66,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Calcium,Dissolved,mg/L,66.44,0.42,2.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Magnesium,Dissolved,mg/L,29.95,0.24,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Calcium,Dissolved,mg/L,66.89,0.42,2.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Magnesium,Dissolved,mg/L,30.13,0.24,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Lead,Total,ug/L,11.75,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/19/2020,CIMP000001481_000NONPJ,Lead,Total,ug/L,11.8,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/21/2020,CIMP000001481_000NONPJ,Lead,Dissolved,ug/L,9.93,0.64,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/21/2020,CIMP000001481_000NONPJ,Lead,Total,ug/L,9.93,0.64,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/21/2020,CIMP000001481_000NONPJ,Lead,Dissolved,ug/L,9.87,0.64,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/21/2020,CIMP000001481_000NONPJ,Lead,Total,ug/L,9.87,0.64,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/18/2020,CIMP000001481_000NONPJ,Total Suspended Solids,Total,mg/L,ND,5,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Copper,Dissolved,ug/L,3.8,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Copper,Total,ug/L,6.3,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,MBAS,Total,mg/L,0.2,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Zinc,Dissolved,ug/L,28,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/16/2020,CIMP000001481,Zinc,Total,ug/L,45,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,MBAS,Total,mg/L,0.389,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,MBAS,Total,mg/L,0.39,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/17/2020,CIMP000001481_LABQA,MBAS,Total,mg/L,ND,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/17/2020,CIMP000001481_LABQA,MBAS,Total,mg/L,0.178,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/23/2020,CIMP000001481_LABQA,Copper,Dissolved,ug/L,50.2,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/23/2020,CIMP000001481_LABQA,Copper,Total,ug/L,50.2,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/23/2020,CIMP000001481_LABQA,Zinc,Dissolved,ug/L,50.1,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/23/2020,CIMP000001481_LABQA,Zinc,Total,ug/L,50.1,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Copper,Dissolved,ug/L,60.8,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Copper,Total,ug/L,60.8,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Zinc,Dissolved,ug/L,168,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Zinc,Total,ug/L,168,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Copper,Dissolved,ug/L,59.9,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Copper,Total,ug/L,59.9,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Zinc,Dissolved,ug/L,163,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,3/16/2020,CIMP000001481_000NONPJ,Zinc,Total,ug/L,163,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/10/2020,CIMP000001435,E. coli,None,MPN/100 mL,930,-88,10,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,3/10/2020,ME000001437,E. coli,None,MPN/100 mL,730,-88,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/16/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/13/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/12/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/12/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/11/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/11/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/10/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,3/10/2020,CIMP000001435_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Lead,Total,ug/L,2.6,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Calcium,Dissolved,mg/L,5.9,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Hardness As CaCO3,Total,mg/L,18,1,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Lead,Dissolved,ug/L,0.45,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Magnesium,Dissolved,mg/L,0.9,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Total Suspended Solids,Total,mg/L,26,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Copper,Dissolved,ug/L,5.1,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Copper,Total,ug/L,8.3,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,MBAS,Total,mg/L,0.24,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Zinc,Dissolved,ug/L,29,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001484,Zinc,Total,ug/L,48,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Total Suspended Solids,Total,mg/L,262,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Dissolved,ug/L,12.52,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Total,ug/L,12.52,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Dissolved,ug/L,12.81,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Total,ug/L,12.81,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Dissolved,ug/L,12.99,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Lead,Total,ug/L,12.99,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Calcium,Dissolved,mg/L,206.96,0.42,2.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Calcium,Dissolved,ug/L,206954.88,420,2500,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Magnesium,Dissolved,mg/L,40.49,0.24,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Magnesium,Dissolved,ug/L,40489.47,240,500,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Calcium,Dissolved,mg/L,211.01,0.42,2.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Calcium,Dissolved,ug/L,211009.66,420,2500,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Magnesium,Dissolved,mg/L,41.07,0.24,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/10/2020,CIMP000001484_000NONPJ,Magnesium,Dissolved,ug/L,41070.52,240,500,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,MBAS,Total,mg/L,0.226,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,MBAS,Total,mg/L,0.232,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Copper,Total,ug/L,66.9,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Zinc,Total,ug/L,62.2,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Copper,Total,ug/L,49,1.3,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Zinc,Total,ug/L,48.6,9.4,50,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Copper,Total,ug/L,68.4,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Zinc,Total,ug/L,63.2,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Copper,Total,ug/L,49.3,1.3,5,Los Cerritos,County Island ,Water_19_20,Wet
+000NONPJ,4/9/2020,CIMP000001484_000NONPJ,Zinc,Total,ug/L,51.4,9.4,50,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Calcium,Dissolved,mg/L,10.23,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Calcium,Dissolved,ug/L,10233.03,85,500,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Magnesium,Dissolved,mg/L,10.61,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Magnesium,Dissolved,ug/L,10612.11,48,100,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Lead,Dissolved,ug/L,10.08,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Lead,Total,ug/L,10.08,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Total Suspended Solids,Total,mg/L,951,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Lead,Dissolved,ug/L,ND,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Lead,Total,ug/L,ND,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Calcium,Dissolved,mg/L,ND,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Calcium,Dissolved,ug/L,ND,85,500,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Magnesium,Dissolved,mg/L,ND,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Magnesium,Dissolved,ug/L,ND,48,100,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/9/2020,CIMP000001484_LABQA,Total Suspended Solids,Total,mg/L,ND,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/7/2020,CIMP000001484_LABQA,MBAS,Total,mg/L,ND,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/7/2020,CIMP000001484_LABQA,MBAS,Total,mg/L,0.201,0.017,0.05,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Copper,Total,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Copper,Dissolved,ug/L,ND,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Zinc,Total,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Zinc,Dissolved,ug/L,ND,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Copper,Dissolved,ug/L,52,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Copper,Total,ug/L,52,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Zinc,Dissolved,ug/L,51.9,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/10/2020,CIMP000001484_LABQA,Zinc,Total,ug/L,51.9,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001483,E. coli,None,MPN/100 mL,3200,-88,10,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,4/6/2020,CIMP000001485,E. coli,None,MPN/100 mL,4600,-88,10,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/6/2020,CIMP000001483_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/6/2020,CIMP000001483_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+LABQA,4/6/2020,CIMP000001483_LABQA,E. coli,None,MPN/100 mL,ND,-88,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Calcium,Total,mg/L,27,0.085,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Hardness As CaCO3,Total,mg/L,99,1,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Lead,Total,ug/L,4.2,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Magnesium,Total,mg/L,8,0.048,0.1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Lead,Dissolved,ug/L,0.27,0.13,1,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/20/2019,CIMP000001332,Total Suspended Solids,Total,mg/L,32,10,10,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,CIMP000001332,Copper,Dissolved,ug/L,19,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,CIMP000001332,Copper,Total,ug/L,26,0.13,0.5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,CIMP000001332,Zinc,Dissolved,ug/L,81,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,CIMP000001332,Zinc,Total,ug/L,120,0.94,5,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,ME000001331,E. coli,None,MPN/100 mL,39000,-88,100,Los Cerritos,County Island ,Water_19_20,Wet
+CUA-PVD-01,11/21/2019,ME000001333,E. coli,None,MPN/100 mL,31000,-88,100,Los Cerritos,County Island ,Water_19_20,Wet

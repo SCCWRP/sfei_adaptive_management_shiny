@@ -1,0 +1,7 @@
+watersheds: "Watershed"
+stations: "StationCode"
+parameters: "Parameter"
+units: "Units"
+dates: "Date"
+results: "Result"
+fraction: "Fraction"
